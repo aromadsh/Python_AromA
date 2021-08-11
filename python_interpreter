@@ -1,0 +1,11 @@
+print(1-2)
+print(4*5)
+print(7/5)
+print(3**2)
+
+type(10)
+type(2.718)
+type("hello")
+
+x = 10
+print(x)
